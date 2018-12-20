@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lista8Zadanie1</string>
+    <string name="genderText">Wybierz płeć:</string>
+    <string name="ageEditText">Wiek</string>
+    <string name="ageText">Podaj wiek:</string>
+    <string name="heightText">Podaj wzrost:</string>
+    <string name="heightEditText">Wzrost</string>
+    <string name="massEditText">Masa ciała</string>
+    <string name="massText">Podaj masę ciała:</string>
+    <string name="choiceText">Wybierz metodę obliczania PPM:</string>
+    <string name="resultCalculatedText">---</string>
+    <string name="resultText">Twoje obliczone PPM wynosi:</string>
+    <string name="startBtn">Start</string>
+
+</resources>
